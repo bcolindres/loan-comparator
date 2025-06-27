@@ -72,7 +72,7 @@ button {
 
   padding: 12px;
 
-  background-color: #007bff;
+  background-color: #127d27;
 
   color: white;
 
@@ -88,7 +88,7 @@ button {
 
 button:hover {
 
-  background-color: #0056b3;
+  background-color: #127d27;
 
 }
 
@@ -126,5 +126,11 @@ tr:nth-child(even) {
 .delete-btn:hover {
  color: red;
  transform: scale(1.2);
+}
+
+.logo-image {
+  width: 200px;
+  display: block;
+  margin: 0 auto 20px auto;
 }
  
